@@ -2,6 +2,10 @@
 
 ![image](https://user-images.githubusercontent.com/59536110/179028993-fdb8c393-07fa-4fd5-96cb-5d427045e887.png)
 
+sample ques
+
+![image](https://user-images.githubusercontent.com/59536110/179275816-1b7d472f-3667-4041-a190-ecdfa763aa89.png)
+
 
 Unit 1 https://drive.google.com/file/d/1p6K-4AXrMI7vVoPf853U1GXq5Du4vc6w/view
 
