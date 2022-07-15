@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/59536110/179028993-fdb8c393-07fa-4fd5-96cb-5d427045e887.png)
 
-sample ques
+sample quesn
 
 ![image](https://user-images.githubusercontent.com/59536110/179275816-1b7d472f-3667-4041-a190-ecdfa763aa89.png)
 ![image](https://user-images.githubusercontent.com/59536110/179278866-fcbe91a7-2cf6-4cb3-b425-48fd2ad372d6.png)
