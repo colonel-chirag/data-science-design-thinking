@@ -10,7 +10,9 @@ sample ques
 
 
 Q1. Describe the different data science roles in short? 
-Q2. Discuss the existing methodologies in Data Analytics ?
+
+Q2. Discuss the existing methodologies in Data Analytics ? 
+
 Q3. Write any five applications of Data Science.
 
 
