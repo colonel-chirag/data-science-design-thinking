@@ -5,6 +5,9 @@
 sample ques
 
 ![image](https://user-images.githubusercontent.com/59536110/179275816-1b7d472f-3667-4041-a190-ecdfa763aa89.png)
+![image](https://user-images.githubusercontent.com/59536110/179278866-fcbe91a7-2cf6-4cb3-b425-48fd2ad372d6.png)
+![image](https://user-images.githubusercontent.com/59536110/179278962-a55da016-0386-46b6-99f7-2505c2fdfd54.png)
+
 
 Q1. Describe the different data science roles in short? 
 Q2. Discuss the existing methodologies in Data Analytics ?
