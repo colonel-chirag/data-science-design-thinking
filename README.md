@@ -6,6 +6,10 @@ sample ques
 
 ![image](https://user-images.githubusercontent.com/59536110/179275816-1b7d472f-3667-4041-a190-ecdfa763aa89.png)
 
+Q1. Describe the different data science roles in short? 
+Q2. Discuss the existing methodologies in Data Analytics ?
+Q3. Write any five applications of Data Science.
+
 
 Unit 1 https://drive.google.com/file/d/1p6K-4AXrMI7vVoPf853U1GXq5Du4vc6w/view
 
