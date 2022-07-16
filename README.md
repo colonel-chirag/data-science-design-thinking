@@ -5,6 +5,7 @@
 sample quesn
 
 ![image](https://user-images.githubusercontent.com/59536110/179275816-1b7d472f-3667-4041-a190-ecdfa763aa89.png)
+![image](https://user-images.githubusercontent.com/59536110/179347624-59f9ed70-af38-4a80-ab9d-4a888989a668.png)
 ![image](https://user-images.githubusercontent.com/59536110/179278866-fcbe91a7-2cf6-4cb3-b425-48fd2ad372d6.png)
 ![image](https://user-images.githubusercontent.com/59536110/179278962-a55da016-0386-46b6-99f7-2505c2fdfd54.png)
 
